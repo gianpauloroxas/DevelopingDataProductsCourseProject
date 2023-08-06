@@ -1,0 +1,50 @@
+---
+title: "Developing Data Products - Shiny Application and Reproducible Pitch"
+author: "Gian Paulo Roxas"
+date: "`r Sys.Date()`"
+output: slidy_presentation
+runtime: shiny
+---
+
+## Introduction
+
+- This presentation is the Course Project of the Developing Data Products Coursera course.
+
+- It is an R Presentation generated with RStudio.
+
+- The Shiny application is available at 
+https://www.shinyapps.io/
+
+- The Shiny app source code is available at 
+https://github.com/gianpauloroxas/DevelopingDataProductsCourseProject 
+
+- Thank you for exploring our interactive data application! Feel free to provide feedback and suggestions. Enjoy!
+
+## Overview
+
+- The application is developed using Shiny, a web application framework for R, enabling interactive data exploration.
+- The source code comprises two essential files: server.R and ui.R, responsible for the backend and user-interface elements, respectively.
+- In server.R, the backend logic is implemented to handle data processing and calculations.
+- ui.R contains the user-interface elements, allowing users to interact with the application effortlessly.
+- The application's primary objective is to provide an intuitive interface for exploring various datasets.
+- The user can customize the number of observations displayed to suit their preference and I am excited to share this user-friendly data exploration tool, hosted on RStudio's shiny server.
+
+
+## How the App works?
+
+- Have fun with the Iris Explorer that I whipped out for you! Here: https://a40kpj-gian0paulo-roxas.shinyapps.io/DevelopingDataProducts/
+
+- Side Panel - Change the number of desired observations such as X, Y, Color, Jitter or Smooth, Facet Row, Facet Column
+
+- Main Panel - See the plot graph.
+
+## Try the App
+
+- The Shiny application is available at 
+https://www.shinyapps.io/
+
+- Have fun with the Iris Explorer that I whipped out for you! Here:
+https://a40kpj-gian0paulo-roxas.shinyapps.io/DevelopingDataProducts/
+
+- Get the app source code at 
+https://github.com/gianpauloroxas/DevelopingDataProductsCourseProject 
